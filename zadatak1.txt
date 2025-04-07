@@ -1,1 +1,2 @@
 Izmenjen
+Promena test za fetch
